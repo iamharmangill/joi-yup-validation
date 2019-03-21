@@ -1,7 +1,7 @@
 {
   "name": "yup-joi-validation",
   "version": "1.0.0",
-  "description": "Week 10 - Data Validation",
+  "description": "Week 10 Validation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
